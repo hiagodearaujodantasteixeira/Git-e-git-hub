@@ -9,3 +9,4 @@ git status -
 git add -
 git commit -m "descriçao do check-point"- commitar
 git config --global - falar quem ta fazendo o commit
+git log - mostra todo o histórico de commit
