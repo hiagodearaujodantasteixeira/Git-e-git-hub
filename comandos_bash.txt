@@ -10,6 +10,8 @@ git add -
 git commit -m "descriçao do check-point"- commitar
 git config --global - falar quem ta fazendo o commit
 git log - mostra todo o histórico de commit
+git diff <nome do arquivo> - como tava antes 
+git reset <nome do arquivo> - tira ele da branch de commit
 
 Fluxo de trabalho
 
