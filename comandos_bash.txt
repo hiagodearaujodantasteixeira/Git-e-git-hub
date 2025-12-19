@@ -10,3 +10,14 @@ git add -
 git commit -m "descriçao do check-point"- commitar
 git config --global - falar quem ta fazendo o commit
 git log - mostra todo o histórico de commit
+
+Fluxo de trabalho
+
+1. criar o diretório do projeto
+2. iniciar o git dentro do diretório criado(git init . )
+3. editar ou criar arquivos
+4. git status
+5. git add <nome do arquivo>
+6. git status
+7. git commit -m "mensagem"
+8. voltar ao passo 3
