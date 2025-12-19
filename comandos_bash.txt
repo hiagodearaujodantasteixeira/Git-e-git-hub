@@ -6,3 +6,6 @@ cat - mostra o que tem no arquivo
 git init . - cria pasta git
 rm -rf .git/ - apagar pasta git
 git status - 
+git add -
+git commit -m "descriçao do check-point"- commitar
+git config --global - falar quem ta fazendo o commit
