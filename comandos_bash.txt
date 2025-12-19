@@ -12,6 +12,11 @@ git config --global - falar quem ta fazendo o commit
 git log - mostra todo o histórico de commit
 git diff <nome do arquivo> - como tava antes 
 git reset <nome do arquivo> - tira ele da branch de commit
+git checkout -b <nome da nova branch> - nova branch
+git branch - que branch você esta
+git checkout main - volta pra branch main
+
+
 
 Fluxo de trabalho
 
