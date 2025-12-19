@@ -15,7 +15,7 @@ git reset <nome do arquivo> - tira ele da branch de commit
 git checkout -b <nome da nova branch> - nova branch
 git branch - que branch você esta
 git checkout main - volta pra branch main
-
+git merge <nome da branch> - tras as alterações da branch para a que você esta
 
 
 Fluxo de trabalho
