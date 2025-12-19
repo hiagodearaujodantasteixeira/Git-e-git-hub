@@ -1,0 +1,8 @@
+ls - lista arquivos
+cd - move entre diretórios
+pwd - mostra diretório de trabalho
+clear - limpa o terminal
+cat - mostra o que tem no arquivo
+git init . - cria pasta git
+rm -rf .git/ - apagar pasta git
+git status - 
