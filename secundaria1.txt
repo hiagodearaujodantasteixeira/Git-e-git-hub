@@ -1,3 +1,5 @@
 arquivo secundaria1
 mais uma linha
+<<<<<<< HEAD
 legals
+
